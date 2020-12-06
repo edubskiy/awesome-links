@@ -7,3 +7,6 @@ Flutter
 
 Github:
 * [Readme generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+
+Forumhoue:
+* [Направление известно, дорога будет длинной - надо приготовиться к этому](https://www.forumhouse.ru/threads/506940/page-10)
