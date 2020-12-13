@@ -11,3 +11,6 @@ Github:
 
 Forumhoue:
 * [Направление известно, дорога будет длинной - надо приготовиться к этому](https://www.forumhouse.ru/threads/506940/page-10) - Ландшафтный дизайн участка
+
+Code review
+* [Make your code reviewer fall in love with you](https://mtlynch.io/code-review-love/)
