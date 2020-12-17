@@ -17,3 +17,6 @@ Code review
 
 Database
 * [Database architecture service](https://dbdiagram.io)
+
+Saint-Petersburg
+* [Apple recommended from Arrival service iPhone & Macbook Некрасова](https://secrets-service.ru/)
