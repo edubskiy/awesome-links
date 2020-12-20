@@ -3,9 +3,10 @@
 My Tools Web
 * [React](https://ru.reactjs.org/)
 * [Typescript](https://www.typescriptlang.org/)
+* [Redux](https://redux.js.org/)
+* [Redux-observable](https://redux-observable.js.org/)
 * [NestJS](https://nestjs.com/)
 * [TypeORM](https://typeorm.io)
-* [Redux-observable](https://redux-observable.js.org/)
 * [React Admin](https://marmelab.com/react-admin/)
 * [PgAdmin](https://www.pgadmin.org/)
 * [Styled Components](https://styled-components.com/)
