@@ -1,5 +1,8 @@
 # Awesome Links (all these links are handpicked and manually checked)
 
+My Tools
+*[React](https://ru.reactjs.org/)
+
 Flutter
 * [BLoC pattern with example](https://blog.codemagic.io/images_videos/)
 * [16 Top Dart tips and tricks](https://codewithandrea.com/videos/2020-11-16-top-dart-tips-and-tricks-for-flutter-devs/)
@@ -7,6 +10,7 @@ Flutter
 
 Node
 * [Node best practices](https://github.com/goldbergyoni/nodebestpractices#readme)
+* [Top 10 Node ORMs](https://www.prisma.io/dataguide/database-tools/top-nodejs-orms-query-builders-and-database-libraries-in-2020)
 
 Github:
 * [Readme generator](https://github.com/rahuldkjain/github-profile-readme-generator)
