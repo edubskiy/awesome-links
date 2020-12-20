@@ -1,6 +1,6 @@
 # Awesome Links (all these links are handpicked and manually checked)
 
-My Tools
+My Tools Web
 * [React](https://ru.reactjs.org/)
 * [Typescript](https://www.typescriptlang.org/)
 * [NestJS](https://nestjs.com/)
@@ -8,6 +8,11 @@ My Tools
 * [React Admin](https://marmelab.com/react-admin/)
 * [PgAdmin](https://www.pgadmin.org/)
 * [Styled Components](https://styled-components.com/)
+
+My Tools Mobile
+ * [Flutter](https://flutter.dev/)
+ * [BLoC](https://pub.dev/packages/flutter_bloc)
+
 
 Flutter
 * [BLoC pattern with example](https://blog.codemagic.io/images_videos/)
