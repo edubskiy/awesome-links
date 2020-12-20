@@ -2,8 +2,12 @@
 
 My Tools
 * [React](https://ru.reactjs.org/)
+* [Typescript](https://www.typescriptlang.org/)
 * [NestJS](https://nestjs.com/)
 * [TypeORM](https://typeorm.io)
+* [React Admin](https://marmelab.com/react-admin/)
+* [PgAdmin](https://www.pgadmin.org/)
+* [Styled Components](https://styled-components.com/)
 
 Flutter
 * [BLoC pattern with example](https://blog.codemagic.io/images_videos/)
