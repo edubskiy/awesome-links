@@ -1,7 +1,9 @@
 # Awesome Links (all these links are handpicked and manually checked)
 
 My Tools
-*[React](https://ru.reactjs.org/)
+* [React](https://ru.reactjs.org/)
+* [NestJS](https://nestjs.com/)
+* [TypeORM](https://typeorm.io)
 
 Flutter
 * [BLoC pattern with example](https://blog.codemagic.io/images_videos/)
