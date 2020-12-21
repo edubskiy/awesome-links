@@ -19,6 +19,8 @@ My Tools Mobile
  
 My Dev Tools
  * [JetBrains Mono](https://www.jetbrains.com/ru-ru/lp/mono/)
+ * [Operator Mono](https://github.com/kiliman/operator-mono-lig)
+ * [Visual Studio Code](https://code.visualstudio.com/)
  
 
 ----------------------------
