@@ -24,6 +24,7 @@ My Dev Tools
 
 React tools
  * [Create React App](https://github.com/facebook/create-react-app)
+ * [React App Rewired](https://www.npmjs.com/package/react-app-rewired)
 
 ----------------------------
 
