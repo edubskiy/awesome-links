@@ -52,5 +52,8 @@ Code review
 Database
 * [Database architecture service](https://dbdiagram.io)
 
+Nestjs
+* [Microservices implementation](https://wanago.io/2020/11/16/api-nestjs-microservices/)
+
 Saint-Petersburg
 * [Apple recommended from Arrival service iPhone & Macbook Некрасова](https://secrets-service.ru/)
