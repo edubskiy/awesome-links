@@ -21,7 +21,9 @@ My Dev Tools
  * [JetBrains Mono](https://www.jetbrains.com/ru-ru/lp/mono/)
  * [Operator Mono](https://github.com/kiliman/operator-mono-lig)
  * [Visual Studio Code](https://code.visualstudio.com/)
- 
+
+React tools
+ * [Create React App](https://github.com/facebook/create-react-app)
 
 ----------------------------
 
