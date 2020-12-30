@@ -57,3 +57,6 @@ Nestjs
 
 Saint-Petersburg
 * [Apple recommended from Arrival service iPhone & Macbook Некрасова](https://secrets-service.ru/)
+
+BioMed Dev
+* [Реверс-инжиниринг исходного кода коронавирусной вакцины от компаний BioNTech/Pfizer](https://habr.com/ru/post/535626/)
