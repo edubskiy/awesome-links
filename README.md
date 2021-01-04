@@ -63,3 +63,6 @@ Saint-Petersburg
 
 BioMed Dev
 * [Реверс-инжиниринг исходного кода коронавирусной вакцины от компаний BioNTech/Pfizer](https://habr.com/ru/post/535626/)
+
+Photos
+ * [LibrePhotos - self hosted Google photos alternative](https://github.com/LibrePhotos/librephotos?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn)
