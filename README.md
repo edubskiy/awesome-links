@@ -46,6 +46,7 @@ Github:
 
 Forumhoue:
 * [Направление известно, дорога будет длинной - надо приготовиться к этому](https://www.forumhouse.ru/threads/506940/page-10) - Ландшафтный дизайн участка
+* [Стройка большого дома из кирпича и жизнь в рубленой бане. История переезда](https://www.forumhouse.ru/journal/videos/5600-strojka-bolshogo-doma-iz-kirpicha-i-zhizn-v-rublenoj-bane-istoriya-pereezda?utm_source=sendpulse&utm_medium=email&utm_campaign=tn_noviy_god_dec_20&spush=ZS5kdWJza2l5QGdtYWlsLmNvbQ==)
 
 Code review
 * [Make your code reviewer fall in love with you](https://mtlynch.io/code-review-love/)
