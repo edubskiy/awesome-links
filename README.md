@@ -52,7 +52,8 @@ Forumhoue:
 * [Стройка большого дома из кирпича и жизнь в рубленой бане. История переезда](https://www.forumhouse.ru/journal/videos/5600-strojka-bolshogo-doma-iz-kirpicha-i-zhizn-v-rublenoj-bane-istoriya-pereezda?utm_source=sendpulse&utm_medium=email&utm_campaign=tn_noviy_god_dec_20&spush=ZS5kdWJza2l5QGdtYWlsLmNvbQ==)
 
 Code review
-* [Make your code reviewer fall in love with you](https://mtlynch.io/code-review-love/)
+* [Make your code reviewer fall in love with you](https://mtlynch.io/code-review-love/](https://meekg33k.dev/what-i-learned-from-doing-60-technical-interviews-in-30-days-ckda9sn7s00iftss13b0wd0ky)
+
 
 Database
 * [Database architecture service](https://dbdiagram.io)
@@ -62,6 +63,8 @@ Database
 Nestjs
 * [Microservices implementation](https://wanago.io/2020/11/16/api-nestjs-microservices/)
 
+Interview
+* [What I Learned from Doing 60+ Technical Interviews in 30 Days](
 Saint-Petersburg
 * [Apple recommended from Arrival service iPhone & Macbook Некрасова](https://secrets-service.ru/)
 
