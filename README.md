@@ -56,6 +56,7 @@ Code review
 
 Rust
 * [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust?utm_source=hackernewsletter&utm_medium=email&utm_term=code)
+* [Rust Design Patterns](https://rust-unofficial.github.io/patterns/intro.html)
 
 Database
 * [Database architecture service](https://dbdiagram.io)
