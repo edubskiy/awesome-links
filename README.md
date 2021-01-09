@@ -54,6 +54,8 @@ Forumhoue:
 Code review
 * [Make your code reviewer fall in love with you](https://mtlynch.io/code-review-love/](https://meekg33k.dev/what-i-learned-from-doing-60-technical-interviews-in-30-days-ckda9sn7s00iftss13b0wd0ky)
 
+Rust
+* [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust?utm_source=hackernewsletter&utm_medium=email&utm_term=code)
 
 Database
 * [Database architecture service](https://dbdiagram.io)
