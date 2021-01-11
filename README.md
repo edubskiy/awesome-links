@@ -22,6 +22,7 @@ My Dev Tools
  * [JetBrains Mono](https://www.jetbrains.com/ru-ru/lp/mono/)
  * [Operator Mono](https://github.com/kiliman/operator-mono-lig)
  * [Visual Studio Code](https://code.visualstudio.com/)
+ * [Github super linter](https://github.com/github/super-linter/), [how it works](https://github.blog/2020-06-18-introducing-github-super-linter-one-linter-to-rule-them-all/)
 
 React tools
  * [Create React App](https://github.com/facebook/create-react-app)
@@ -56,8 +57,8 @@ Forumhoue:
 * [Направление известно, дорога будет длинной - надо приготовиться к этому](https://www.forumhouse.ru/threads/506940/page-10) - Ландшафтный дизайн участка
 * [Стройка большого дома из кирпича и жизнь в рубленой бане. История переезда](https://www.forumhouse.ru/journal/videos/5600-strojka-bolshogo-doma-iz-kirpicha-i-zhizn-v-rublenoj-bane-istoriya-pereezda?utm_source=sendpulse&utm_medium=email&utm_campaign=tn_noviy_god_dec_20&spush=ZS5kdWJza2l5QGdtYWlsLmNvbQ==)
 
-Code review
-* [Make your code reviewer fall in love with you](https://mtlynch.io/code-review-love/](https://meekg33k.dev/what-i-learned-from-doing-60-technical-interviews-in-30-days-ckda9sn7s00iftss13b0wd0ky)
+Development
+* [Make your code reviewer fall in love with you](https://mtlynch.io/code-review-love/)
 
 Rust
 * [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust?utm_source=hackernewsletter&utm_medium=email&utm_term=code)
