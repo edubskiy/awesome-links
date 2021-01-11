@@ -47,6 +47,7 @@ Node
 
 NextJs
  * [10 Next.js Tips You Might Not Know!](https://www.youtube.com/watch?v=R59e1Vl5lO8)
+ * [CapacitorJs](https://capacitorjs.com/) мобильные приложения быстро с NextJs
 
 Github:
 * [Readme generator](https://github.com/rahuldkjain/github-profile-readme-generator)
