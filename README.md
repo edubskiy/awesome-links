@@ -37,6 +37,8 @@ Handpicked articles:
 Frontend
 * [Создаем монорепозиторий с помощью lerna & yarn workspaces](https://habr.com/ru/post/448766/)
 * [React Performance Optimization Tips](https://dev.to/harshdand/react-performance-optimization-tips-4238)
+* [Top Grid performance comparison](https://medium.com/bryntum/five-fast-javascript-data-grids-a-performance-review-22b456ba423b) + [github](https://github.com/bryntum/grid-performance)
+
 Flutter
 * [BLoC pattern with example](https://blog.codemagic.io/images_videos/)
 * [16 Top Dart tips and tricks](https://codewithandrea.com/videos/2020-11-16-top-dart-tips-and-tricks-for-flutter-devs/)
