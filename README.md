@@ -78,6 +78,7 @@ Nestjs
 * [Microservices implementation](https://wanago.io/2020/11/16/api-nestjs-microservices/)
 
 Interview
+* [Javascript Interview questions](https://github.com/lydiahallie/javascript-questions#readme)
 * [What I Learned from Doing 60+ Technical Interviews in 30 Days](
 Saint-Petersburg
 * [Apple recommended from Arrival service iPhone & Macbook Некрасова](https://secrets-service.ru/)
