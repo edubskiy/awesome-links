@@ -12,6 +12,7 @@ My Tools Web
 * [Styled Components](https://styled-components.com/)
 * [Professional Grid(Table) & Gantt +more](https://dhtmlx.com/)
 * [React Final Form](https://final-form.org/react)
+* [NextJs](https://nextjs.org/)
 
 My Tools Mobile
  * [Flutter](https://flutter.dev/)
