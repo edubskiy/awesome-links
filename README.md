@@ -58,6 +58,7 @@ Github:
 * [Readme generator](https://github.com/rahuldkjain/github-profile-readme-generator)
 
 Forumhoue:
+* [Наш путь Домой. Индивидуальный проект, УШП, ГСБ, 300 кв. м](https://www.forumhouse.ru/threads/473224/)
 * [Пошаговый монтаж утепленной и холодной кровель, особенности кровельного материала и комплектующие](https://www.forumhouse.ru/academy/courses/64/lessons/285)
 * [Направление известно, дорога будет длинной - надо приготовиться к этому](https://www.forumhouse.ru/threads/506940/page-10) - Ландшафтный дизайн участка
 * [Стройка большого дома из кирпича и жизнь в рубленой бане. История переезда](https://www.forumhouse.ru/journal/videos/5600-strojka-bolshogo-doma-iz-kirpicha-i-zhizn-v-rublenoj-bane-istoriya-pereezda?utm_source=sendpulse&utm_medium=email&utm_campaign=tn_noviy_god_dec_20&spush=ZS5kdWJza2l5QGdtYWlsLmNvbQ==)
