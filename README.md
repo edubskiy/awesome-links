@@ -83,9 +83,13 @@ PostgreSQL
 Nestjs
 * [Microservices implementation](https://wanago.io/2020/11/16/api-nestjs-microservices/)
 
+Tmux
+ *[Tmux sessions](https://askubuntu.com/questions/868186/how-to-kill-all-tmux-sessions-or-at-least-multiple-sessions-from-the-cli#:~:text=If%20you%20are%20inside%20a,to%20kill%20that%20specific%20session.)
+
 Interview
 * [Javascript Interview questions](https://github.com/lydiahallie/javascript-questions#readme)
 * [What I Learned from Doing 60+ Technical Interviews in 30 Days](
+
 Saint-Petersburg
 * [Apple recommended from Arrival service iPhone & Macbook Некрасова](https://secrets-service.ru/)
 
