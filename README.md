@@ -90,6 +90,8 @@ Interview
 * [Javascript Interview questions](https://github.com/lydiahallie/javascript-questions#readme)
 * [What I Learned from Doing 60+ Technical Interviews in 30 Days](
 
+Job
+* [Швеция и новая Зеландия, spotify](https://vc.ru/life/197965?_gl=1*fpi9i3*_ga*SzVFTjh6UWhZWmlkTUVIOGpBbUl3Y29EZk9PNWg3cU1HQlBiLWxnYzh0MC1KUk16NXdBZDA0aVktTGN3dzh6RQ..)
 Saint-Petersburg
 * [Apple recommended from Arrival service iPhone & Macbook Некрасова](https://secrets-service.ru/)
 
