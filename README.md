@@ -80,6 +80,9 @@ Database
 PostgreSQL
 * [Blazing fast cloning of PostgreSQL - Database Lab Engine](https://gitlab.com/postgres-ai/database-lab)
 
+TypeORM
+ * [Example on usage of ltree](https://github.com/typeorm/typeorm/commit/43a7386719280a11cfd0495748189799bc51b7d6)
+
 Nestjs
 * [Microservices implementation](https://wanago.io/2020/11/16/api-nestjs-microservices/)
 * [Awesome NestJS](https://awesomeopensource.com/project/juliandavidmr/awesome-nestjs)
