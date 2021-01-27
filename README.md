@@ -3,6 +3,7 @@
 My Tools Web
 * [React](https://ru.reactjs.org/)
 * [Typescript](https://www.typescriptlang.org/)
+* [RxJs](https://rxjs-dev.firebaseapp.com/)
 * [Redux](https://redux.js.org/)
 * [Redux-observable](https://redux-observable.js.org/)
 * [NestJS](https://nestjs.com/)
@@ -15,6 +16,7 @@ My Tools Web
 * [NextJs](https://nextjs.org/)
 * [Carbon design react components](https://github.com/carbon-design-system/carbon/tree/master/packages/react)
 * [RecoilJs](https://recoiljs.org/)
+
 
 My Tools Mobile
  * [Flutter](https://flutter.dev/)
