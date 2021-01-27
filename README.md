@@ -14,6 +14,7 @@ My Tools Web
 * [React Final Form](https://final-form.org/react)
 * [NextJs](https://nextjs.org/)
 * [Carbon design react components](https://github.com/carbon-design-system/carbon/tree/master/packages/react)
+* [RecoilJs](https://recoiljs.org/)
 
 My Tools Mobile
  * [Flutter](https://flutter.dev/)
