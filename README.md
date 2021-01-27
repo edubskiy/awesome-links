@@ -39,6 +39,7 @@ Frontend
 * [React Performance Optimization Tips](https://dev.to/harshdand/react-performance-optimization-tips-4238)
 * [Top Grid performance comparison](https://medium.com/bryntum/five-fast-javascript-data-grids-a-performance-review-22b456ba423b) + [github](https://github.com/bryntum/grid-performance)
 * [React create environment variables](https://medium.com/@tacomanator/environments-with-create-react-app-7b645312c09d)
+* [Recoil vs Redux | The Ultimate React State Management Face-Off](https://medium.com/@chandan.reddy/react-recoil-vs-redux-the-ultimate-react-state-management-face-off-188a729a70ee#:~:text=In%20redux%2C%20actions%20are%20fired,shared%20atom%20state%20using%20selectors.)
 
 Flutter
 * [BLoC pattern with example](https://blog.codemagic.io/images_videos/)
