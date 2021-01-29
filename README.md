@@ -64,7 +64,10 @@ NextJs
 Github:
 * [Readme generator](https://github.com/rahuldkjain/github-profile-readme-generator)
 
-Forumhoue:
+Gitlab:
+* [CI Multiple branches](https://stackoverflow.com/questions/49569253/gitlab-ci-multiple-branches)
+
+Forumhouse:
 * [Наш путь Домой. Индивидуальный проект, УШП, ГСБ, 300 кв. м](https://www.forumhouse.ru/threads/473224/)
 * [Пошаговый монтаж утепленной и холодной кровель, особенности кровельного материала и комплектующие](https://www.forumhouse.ru/academy/courses/64/lessons/285)
 * [Направление известно, дорога будет длинной - надо приготовиться к этому](https://www.forumhouse.ru/threads/506940/page-10) - Ландшафтный дизайн участка
