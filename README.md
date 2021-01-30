@@ -52,6 +52,7 @@ Flutter
 * [Stream definition on SO (Very good)](https://stackoverflow.com/questions/1216380/what-is-a-stream/1216397#1216397)
 * [Collection of flutter best practices](https://github.com/Solido/awesome-flutter)
 * [Flutter Modular 3.0](https://medium.com/flutterando/announcing-flutter-modular-3-0-beta-with-null-safety-b0a0e13f67b6)
+* [Transfer-Learning-App-TensorfowLite-and-Flutter](https://medium.com/google-cloud/on-device-machine-learning-train-and-run-tensorflow-lite-models-in-your-flutter-apps-15ea796e5ad4)
 
 Node
 * [Node best practices](https://github.com/goldbergyoni/nodebestpractices#readme)
