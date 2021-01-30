@@ -63,6 +63,7 @@ NextJs
 
 Github:
 * [Readme generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+* [Making githubs new homepage fast and performant](https://github.blog/2021-01-29-making-githubs-new-homepage-fast-and-performant/)
 
 Gitlab:
 * [CI Multiple branches](https://stackoverflow.com/questions/49569253/gitlab-ci-multiple-branches)
