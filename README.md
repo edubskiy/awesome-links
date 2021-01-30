@@ -57,6 +57,7 @@ Flutter
 Node
 * [Node best practices](https://github.com/goldbergyoni/nodebestpractices#readme)
 * [Top 10 Node ORMs](https://www.prisma.io/dataguide/database-tools/top-nodejs-orms-query-builders-and-database-libraries-in-2020)
+* [App monitoring with sentry](https://sentry.io/for/node/)
 
 NextJs
  * [10 Next.js Tips You Might Not Know!](https://www.youtube.com/watch?v=R59e1Vl5lO8)
