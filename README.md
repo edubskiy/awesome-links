@@ -77,6 +77,7 @@ Forumhouse:
 * [Стройка большого дома из кирпича и жизнь в рубленой бане. История переезда](https://www.forumhouse.ru/journal/videos/5600-strojka-bolshogo-doma-iz-kirpicha-i-zhizn-v-rublenoj-bane-istoriya-pereezda?utm_source=sendpulse&utm_medium=email&utm_campaign=tn_noviy_god_dec_20&spush=ZS5kdWJza2l5QGdtYWlsLmNvbQ==)
 * [ИБП для газового котла](https://www.forumhouse.ru/threads/458294/)
 * [Классная бытовка, можно построить у себя на участке](https://www.youtube.com/watch?v=baW5XKNwcGk)
+* [Утепленная кровля: пошаговая инструкция по монтажу](https://www.forumhouse.ru/academy/courses/64?utm_source=sendpulse&utm_medium=email&utm_campaign=fh_academy_uteplenie+krovli&spush=ZS5kdWJza2l5QGdtYWlsLmNvbQ==)
 
 Development
 * [Make your code reviewer fall in love with you](https://mtlynch.io/code-review-love/)
