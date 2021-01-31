@@ -78,6 +78,7 @@ Forumhouse:
 * [ИБП для газового котла](https://www.forumhouse.ru/threads/458294/)
 * [Классная бытовка, можно построить у себя на участке](https://www.youtube.com/watch?v=baW5XKNwcGk)
 * [Утепленная кровля: пошаговая инструкция по монтажу](https://www.forumhouse.ru/academy/courses/64?utm_source=sendpulse&utm_medium=email&utm_campaign=fh_academy_uteplenie+krovli&spush=ZS5kdWJza2l5QGdtYWlsLmNvbQ==)
+* [Электрика от щитка до розетки: выбор и монтаж оборудования](https://www.forumhouse.ru/academy/courses/59?utm_source=sendpulse&utm_medium=email&utm_campaign=fh_academy_legrand_promo&spush=ZS5kdWJza2l5QGdtYWlsLmNvbQ==)
 
 Development
 * [Make your code reviewer fall in love with you](https://mtlynch.io/code-review-love/)
