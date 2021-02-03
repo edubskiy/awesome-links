@@ -45,6 +45,7 @@ Frontend
 * [Top Grid performance comparison](https://medium.com/bryntum/five-fast-javascript-data-grids-a-performance-review-22b456ba423b) + [github](https://github.com/bryntum/grid-performance)
 * [React create environment variables](https://medium.com/@tacomanator/environments-with-create-react-app-7b645312c09d)
 * [Recoil vs Redux | The Ultimate React State Management Face-Off](https://medium.com/@chandan.reddy/react-recoil-vs-redux-the-ultimate-react-state-management-face-off-188a729a70ee#:~:text=In%20redux%2C%20actions%20are%20fired,shared%20atom%20state%20using%20selectors.)
+* [The styled-components happy path](https://www.joshwcomeau.com/css/styled-components/)
 
 Flutter
 * [BLoC pattern with example](https://blog.codemagic.io/images_videos/)
@@ -53,7 +54,7 @@ Flutter
 * [Collection of flutter best practices](https://github.com/Solido/awesome-flutter)
 * [Flutter Modular 3.0](https://medium.com/flutterando/announcing-flutter-modular-3-0-beta-with-null-safety-b0a0e13f67b6)
 * [Transfer-Learning-App-TensorfowLite-and-Flutter](https://medium.com/google-cloud/on-device-machine-learning-train-and-run-tensorflow-lite-models-in-your-flutter-apps-15ea796e5ad4)
-* https://www.joshwcomeau.com/css/styled-components/
+* [Effective BloC pattern](https://medium.com/codechai/effective-bloc-pattern-45c36d76d5fe)
 
 Node
 * [Node best practices](https://github.com/goldbergyoni/nodebestpractices#readme)
