@@ -63,6 +63,7 @@ Node
 
 NestJs
  * [Nestjs with Neo4j example](https://medium.com/neo4j/building-a-modern-web-application-with-neo4j-and-nestjs-b51ffd8268fa)
+ * [Awesome nestjs](https://awesomeopensource.com/project/juliandavidmr/awesome-nestjs)
 
 NextJs
  * [10 Next.js Tips You Might Not Know!](https://www.youtube.com/watch?v=R59e1Vl5lO8)
