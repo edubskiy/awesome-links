@@ -77,6 +77,7 @@ Gitlab:
 * [CI Multiple branches](https://stackoverflow.com/questions/49569253/gitlab-ci-multiple-branches)
 
 Forumhouse:
+* [Видео как укладывать стену из теплой керимики](https://www.forumhouse.ru/journal/themes/82-dom-iz-keramicheskih-blokov-da-ili-net)
 * [Теплая керамика. Особенности материала // FORUMHOUSE](https://www.youtube.com/watch?v=3jLTre_RpDk)
 * [Реально хорошие советы при строительстве дома из опыта](https://www.forumhouse.ru/threads/249603/page-31#post-11833602)
 * [Наш путь Домой. Индивидуальный проект, УШП, ГСБ, 300 кв. м](https://www.forumhouse.ru/threads/473224/)
