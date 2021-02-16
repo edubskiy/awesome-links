@@ -77,6 +77,7 @@ Gitlab:
 * [CI Multiple branches](https://stackoverflow.com/questions/49569253/gitlab-ci-multiple-branches)
 
 Forumhouse:
+* [ОХРЕНЕННОЕ ВИДЕО ПРО СРАВНЕНИЕ ГАЗОБЕТОНА И КЕРАМОБЛОКА](https://www.youtube.com/watch?v=K-SwdEMvAHw&t=212s)
 * [Курс | Вентиляция в частном доме](https://www.forumhouse.ru/academy/courses/61/lessons/279)
 * [Видео как укладывать стену из теплой керимики](https://www.forumhouse.ru/journal/themes/82-dom-iz-keramicheskih-blokov-da-ili-net)
 * [Теплая керамика. Особенности материала // FORUMHOUSE](https://www.youtube.com/watch?v=3jLTre_RpDk)
