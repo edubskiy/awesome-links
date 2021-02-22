@@ -28,6 +28,7 @@ My Tools Mobile
  * [Flutter](https://flutter.dev/)
  * [BLoC](https://pub.dev/packages/flutter_bloc)
  * [RxDart](https://pub.dev/packages/rxdart)
+ * [Dio HTTP client for Flutter](https://pub.dev/packages/dio)
  
 My Dev Tools
  * [JetBrains Mono](https://www.jetbrains.com/ru-ru/lp/mono/)
