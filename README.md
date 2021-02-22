@@ -6,6 +6,7 @@ My Tools Web
 * [RxJs](https://rxjs-dev.firebaseapp.com/)
 * [Redux](https://redux.js.org/)
 * [Redux-observable](https://redux-observable.js.org/)
+* [Redux Tree Grid](https://github.com/edubskiy/react-redux-grid)
 * [NestJS](https://nestjs.com/)
 * [TypeORM](https://typeorm.io)
 * [React Admin](https://marmelab.com/react-admin/)
