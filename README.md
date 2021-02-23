@@ -56,6 +56,7 @@ Frontend
 * [The styled-components happy path](https://www.joshwcomeau.com/css/styled-components/)
 
 Flutter
+* [Flutter state management in 2021](https://levelup.gitconnected.com/flutter-state-management-in-2021-when-to-use-what-98722093b8bc)
 * [BLoC pattern with example](https://blog.codemagic.io/images_videos/)
 * [16 Top Dart tips and tricks](https://codewithandrea.com/videos/2020-11-16-top-dart-tips-and-tricks-for-flutter-devs/)
 * [Stream definition on SO (Very good)](https://stackoverflow.com/questions/1216380/what-is-a-stream/1216397#1216397)
