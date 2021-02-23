@@ -26,9 +26,10 @@ Very promising tools
 
 My Tools Mobile
  * [Flutter](https://flutter.dev/)
- * [BLoC](https://pub.dev/packages/flutter_bloc)
+ * [Deprecated? BLoC](https://pub.dev/packages/flutter_bloc)
  * [RxDart](https://pub.dev/packages/rxdart)
  * [Dio HTTP client for Flutter](https://pub.dev/packages/dio)
+ * [Cubit simple state management](https://github.com/felangel/cubit), [article about it](https://medium.com/flutterando/cubit-a-simple-solution-for-app-state-management-in-flutter-66ab5279ef73)
  
 My Dev Tools
  * [JetBrains Mono](https://www.jetbrains.com/ru-ru/lp/mono/)
