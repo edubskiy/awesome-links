@@ -31,6 +31,7 @@ My Tools Mobile
  * [Cubit simple state management](https://github.com/felangel/cubit), [article about it](https://medium.com/flutterando/cubit-a-simple-solution-for-app-state-management-in-flutter-66ab5279ef73)
  
 My Dev Tools
+ * [Husky commit hooks](https://github.com/typicode/husky)
  * [JetBrains Mono](https://www.jetbrains.com/ru-ru/lp/mono/)
  * [Operator Mono](https://github.com/kiliman/operator-mono-lig)
  * [Visual Studio Code](https://code.visualstudio.com/)
