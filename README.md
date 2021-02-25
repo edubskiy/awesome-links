@@ -86,6 +86,7 @@ Gitlab:
 * [CI Multiple branches](https://stackoverflow.com/questions/49569253/gitlab-ci-multiple-branches)
 
 Forumhouse:
+* [ФАХВЕРК своими руками за 328 000 рублей. Собери сам или доверь нам. СПЕЦ-ПРЕДЛОЖЕНИЕ. "Строй и Живи"](https://www.youtube.com/watch?v=cqLLj6aYs2E)
 * [Workbox проект который можно возвести на любом участке и работать с ноутом](https://www.ytong.ru/tipovoy-proekt-workbox.php)
 * [Про то что YTONG блоки очень хорошие](https://www.youtube.com/watch?v=_Y5LQCVYoHI)
 * [ОХРЕНЕННОЕ ВИДЕО ПРО СРАВНЕНИЕ ГАЗОБЕТОНА И КЕРАМОБЛОКА](https://www.youtube.com/watch?v=K-SwdEMvAHw&t=212s)
