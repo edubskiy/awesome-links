@@ -122,7 +122,8 @@ Database
 * [Database of Databases](https://dbdb.io/)
 
 PostgreSQL
-* [Blazing fast cloning of PostgreSQL - Database Lab Engine](https://gitlab.com/postgres-ai/database-lab)
+* [Postgressql to index github repos](https://postgresweekly.com/link/103596/1e2b04341a)
+* [Blazing fast cloning of PostgreSQL - jiC4Geech3hep8 Lab Engine](https://gitlab.com/postgres-ai/database-lab)
 
 TypeORM
  * [Example on usage of ltree](https://github.com/typeorm/typeorm/commit/43a7386719280a11cfd0495748189799bc51b7d6)
