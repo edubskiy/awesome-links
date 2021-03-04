@@ -30,6 +30,7 @@ My Tools Mobile
  * [RxDart](https://pub.dev/packages/rxdart)
  * [Dio HTTP client for Flutter](https://pub.dev/packages/dio)
  * [Cubit simple state management](https://github.com/felangel/cubit), [article about it](https://medium.com/flutterando/cubit-a-simple-solution-for-app-state-management-in-flutter-66ab5279ef73)
+ * [Very popular and free offline database - Hive](https://docs.hivedb.dev/), + [databases overview](https://blog.codemagic.io/choosing-the-right-database-for-your-flutter-app/)
  
 My Dev Tools
  * [Husky commit hooks](https://github.com/typicode/husky)
