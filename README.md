@@ -18,6 +18,7 @@ My Tools Web
 * [Carbon design react components](https://github.com/carbon-design-system/carbon/tree/master/packages/react)
 * [RecoilJs](https://recoiljs.org/)
 * [Testing library](https://testing-library.com/)
+* [Opensource Gantt library](https://github.com/frappe/gantt)
 
 Very promising tools
 * [Stenciljs](https://stenciljs.com/)
