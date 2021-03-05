@@ -117,7 +117,8 @@ Development
 * [Make your code reviewer fall in love with you](https://mtlynch.io/code-review-love/)
 
 Algorithms
-* [Javascript algorithms](https://github.com/trekhleb/javascript-algorithms)
+* [Tree from flat array JS](https://stackoverflow.com/questions/18017869/build-tree-array-from-flat-array-in-javascript)
+* [Javascript algorithms](https://stackoverflow.com/a/40732240/6614182)
 
 Rust
 * [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust?utm_source=hackernewsletter&utm_medium=email&utm_term=code)
