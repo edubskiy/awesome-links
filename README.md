@@ -12,6 +12,7 @@ Frameworks and libraries
 * [NestJS](https://nestjs.com/)
 * [TypeORM](https://typeorm.io)
 * [React Admin](https://marmelab.com/react-admin/)
+* [React Table](https://react-table.tanstack.com/)
 * [PgAdmin](https://www.pgadmin.org/)
 * [Styled Components](https://styled-components.com/)
 * [Professional Grid(Table) & Gantt +more](https://dhtmlx.com/)
