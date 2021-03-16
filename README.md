@@ -19,6 +19,7 @@ Frameworks and libraries
 * [React Final Form](https://final-form.org/react)
 * [NextJs](https://nextjs.org/)
 * [Testing library](https://testing-library.com/)
+* [AVA is a test runner for Node.js with a concise API](https://github.com/avajs/ava/)
 
 Tools
 * [Carbon design react components](https://github.com/carbon-design-system/carbon/tree/master/packages/react)
