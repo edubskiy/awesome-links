@@ -70,6 +70,7 @@ Frontend
 * [The styled-components happy path](https://www.joshwcomeau.com/css/styled-components/)
 
 Flutter
+* [Effective BLoC pattern](https://medium.com/codechai/effective-bloc-pattern-45c36d76d5fe)
 * [Architect flutter project using BLoC pattern](https://medium.com/codechai/architect-your-flutter-project-using-bloc-pattern-part-2-d8dd1eca9ba5)
 * [BLoC architecture from official docs](https://bloclibrary.dev/#/architecture)
 * [Flutter state management in 2021](https://levelup.gitconnected.com/flutter-state-management-in-2021-when-to-use-what-98722093b8bc)
