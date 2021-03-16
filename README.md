@@ -30,6 +30,7 @@ Frameworks and libraries
 
 Mobile tools
  * [Flutter](https://flutter.dev/)
+ * [Flutter awesome](https://github.com/Solido/awesome-flutter)
  * [Deprecated? BLoC](https://pub.dev/packages/flutter_bloc)
  * [RxDart](https://pub.dev/packages/rxdart)
  * [Dio HTTP client for Flutter](https://pub.dev/packages/dio)
