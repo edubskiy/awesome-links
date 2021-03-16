@@ -161,6 +161,7 @@ Database
 * [Database of Databases](https://dbdb.io/)
 
 PostgreSQL
+* [POSTGRES SCALING ADVICE FOR 2021](https://www.cybertec-postgresql.com/en/postgres-scaling-advice-for-2021/)
 * [Setup postgres 13 replication](https://www.highgo.ca/2021/02/03/how-to-setup-postgres-13-wal-streaming-replication-on-ubuntu-18-04/)
 * [Postgressql to index github repos](https://postgresweekly.com/link/103596/1e2b04341a)
 * [Blazing fast cloning of PostgreSQL - jiC4Geech3hep8 Lab Engine](https://gitlab.com/postgres-ai/database-lab)
