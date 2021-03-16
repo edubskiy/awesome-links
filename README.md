@@ -73,6 +73,9 @@ Frontend
 * [Recoil vs Redux | The Ultimate React State Management Face-Off](https://medium.com/@chandan.reddy/react-recoil-vs-redux-the-ultimate-react-state-management-face-off-188a729a70ee#:~:text=In%20redux%2C%20actions%20are%20fired,shared%20atom%20state%20using%20selectors.)
 * [The styled-components happy path](https://www.joshwcomeau.com/css/styled-components/)
 
+Typescript
+ * [10 bad TypeScript habits to break this year](https://startup-cto.net/10-bad-typescript-habits-to-break-this-year/?utm_source=typescript-weekly.com&utm_campaign=typescript_weekly_162&utm_medium=email)
+
 Flutter
 * [How PostgreSQL replication works](https://medium.com/moveax/how-postgresql-replication-works-6288b3e6000e)
 * [Integrating video streaming with Flutter using Mux](https://medium.com/flutter-community/integrating-video-streaming-with-flutter-using-mux-5ba707cca847)
