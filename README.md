@@ -101,6 +101,7 @@ Gitlab:
 * [CI Multiple branches](https://stackoverflow.com/questions/49569253/gitlab-ci-multiple-branches)
 
 Forumhouse:
+* [К новому строительному сезону. Для тех, кто в начале пути](https://www.forumhouse.ru/threads/435369/)
 * [Обзор успленной версии УШП -> Dow плита](https://www.forumhouse.ru/journal/videos/5611-fundament-dowplita-s-tplym-polom-i-kommunikaciyami-pochemu-on-luchshe-ushp?utm_source=sendpulse&utm_medium=email&utm_campaign=tn_best_jan_21)
 * [СтройХлам проверяет Фахверк Домогацкого Аэродверью. Что не так с фахверком Домогацкого? Экокомплект](https://www.youtube.com/watch?v=jUHUUzZWqy8)
 * [Сколько стоит ФАХВЕРКОВЫЙ ДОМ 🔴 Обзор и Отзыв на Фахверк Домогацкого. Отзывы Экокомплект дом Берген](https://www.youtube.com/watch?v=Cm8L4N0udLE)
