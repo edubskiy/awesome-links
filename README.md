@@ -73,6 +73,7 @@ Frontend
 * [The styled-components happy path](https://www.joshwcomeau.com/css/styled-components/)
 
 Flutter
+* [How PostgreSQL replication works](https://medium.com/moveax/how-postgresql-replication-works-6288b3e6000e)
 * [Integrating video streaming with Flutter using Mux](https://medium.com/flutter-community/integrating-video-streaming-with-flutter-using-mux-5ba707cca847)
 * [Offline first with Flutter](https://medium.com/flutter-community/offline-first-with-flutter-be1e8335d976)
 * [Effective BLoC pattern](https://medium.com/codechai/effective-bloc-pattern-45c36d76d5fe)
