@@ -60,6 +60,7 @@ React tools
 Handpicked articles:
 
 Frontend
+* [RSLint A fast, customizable, and easy to use JavaScript and TypeScript linter](https://github.com/rslint/rslint)
 * [What is obervable interactive video](https://www.youtube.com/watch?v=XbOuCBuQepI)
 * [Создаем монорепозиторий с помощью lerna & yarn workspaces](https://habr.com/ru/post/448766/)
 * [React Performance Optimization Tips](https://dev.to/harshdand/react-performance-optimization-tips-4238)
