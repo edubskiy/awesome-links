@@ -109,6 +109,7 @@ Gitlab:
 * [CI Multiple branches](https://stackoverflow.com/questions/49569253/gitlab-ci-multiple-branches)
 
 Forumhouse:
+* [Фахверковый дом в стиле "модерн"](https://www.forumhouse.ru/threads/269761/)
 * [ЛУЧШАЯ В МИРЕ КРЫША \ ИЗ ЧЕГО И КАК? СТРОЙХЛАМ](https://www.youtube.com/watch?v=bsQehq-0Mns)
 * [ФАХВЕРК FACHWERK В РОССИИ / ЛУЧШИЕ ИЗ ХУДШИХ / СТРОЙХЛАМ](https://www.youtube.com/watch?v=8gpR2yeeb2M)
 * [К новому строительному сезону. Для тех, кто в начале пути](https://www.forumhouse.ru/threads/435369/)
