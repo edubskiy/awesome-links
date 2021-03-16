@@ -90,6 +90,7 @@ Flutter
 * [Effective BloC pattern](https://medium.com/codechai/effective-bloc-pattern-45c36d76d5fe)
 
 Node
+* [Achieving 11M IOPS & 66 GB/s IO on a Single ThreadRipper Workstation](https://tanelpoder.com/posts/11m-iops-with-10-ssds-on-amd-threadripper-pro-workstation/)
 * [Docker for Node.js developers: 5 things you need to know not to fail your security](https://snyk.io/blog/docker-for-node-js-developers-5-things-you-need-to-know/)
 * [10 best practices to containerize Node.js web applications with Docker](https://snyk.io/wp-content/uploads/10-best-practices-to-containerize-Node.js-web-applications-with-Docker.pdf)
 * [Node best practices](https://github.com/goldbergyoni/nodebestpractices#readme)
