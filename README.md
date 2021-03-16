@@ -141,6 +141,7 @@ Forumhouse:
 * [Электрика от щитка до розетки: выбор и монтаж оборудования](https://www.forumhouse.ru/academy/courses/59?utm_source=sendpulse&utm_medium=email&utm_campaign=fh_academy_legrand_promo&spush=ZS5kdWJza2l5QGdtYWlsLmNvbQ==)
 
 Development
+* [I wasted $40k on a fantastic startup idea](https://blog.tjcx.me/p/40k-fantastic-startup-idea)
 * [Make your code reviewer fall in love with you](https://mtlynch.io/code-review-love/)
 
 Algorithms
