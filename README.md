@@ -72,6 +72,7 @@ Frontend
 * [The styled-components happy path](https://www.joshwcomeau.com/css/styled-components/)
 
 Flutter
+* [Offline first with Flutter](https://medium.com/flutter-community/offline-first-with-flutter-be1e8335d976)
 * [Effective BLoC pattern](https://medium.com/codechai/effective-bloc-pattern-45c36d76d5fe)
 * [Architect flutter project using BLoC pattern](https://medium.com/codechai/architect-your-flutter-project-using-bloc-pattern-part-2-d8dd1eca9ba5)
 * [BLoC architecture from official docs](https://bloclibrary.dev/#/architecture)
