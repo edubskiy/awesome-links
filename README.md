@@ -108,6 +108,7 @@ Gitlab:
 * [CI Multiple branches](https://stackoverflow.com/questions/49569253/gitlab-ci-multiple-branches)
 
 Forumhouse:
+* [ЛУЧШАЯ В МИРЕ КРЫША \ ИЗ ЧЕГО И КАК? СТРОЙХЛАМ](https://www.youtube.com/watch?v=bsQehq-0Mns)
 * [ФАХВЕРК FACHWERK В РОССИИ / ЛУЧШИЕ ИЗ ХУДШИХ / СТРОЙХЛАМ](https://www.youtube.com/watch?v=8gpR2yeeb2M)
 * [К новому строительному сезону. Для тех, кто в начале пути](https://www.forumhouse.ru/threads/435369/)
 * [Обзор успленной версии УШП -> Dow плита](https://www.forumhouse.ru/journal/videos/5611-fundament-dowplita-s-tplym-polom-i-kommunikaciyami-pochemu-on-luchshe-ushp?utm_source=sendpulse&utm_medium=email&utm_campaign=tn_best_jan_21)
