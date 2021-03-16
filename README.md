@@ -107,6 +107,7 @@ NextJs
  * [CapacitorJs](https://capacitorjs.com/) мобильные приложения быстро с NextJs
 
 Github:
+* [Securing Your GitHub Project](https://marcinhoppe.com/securing-your-github-project/)
 * [Readme generator](https://github.com/rahuldkjain/github-profile-readme-generator)
 * [Making githubs new homepage fast and performant](https://github.blog/2021-01-29-making-githubs-new-homepage-fast-and-performant/)
 
