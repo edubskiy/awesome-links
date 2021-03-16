@@ -73,6 +73,7 @@ Frontend
 * [The styled-components happy path](https://www.joshwcomeau.com/css/styled-components/)
 
 Flutter
+* [Integrating video streaming with Flutter using Mux](https://medium.com/flutter-community/integrating-video-streaming-with-flutter-using-mux-5ba707cca847)
 * [Offline first with Flutter](https://medium.com/flutter-community/offline-first-with-flutter-be1e8335d976)
 * [Effective BLoC pattern](https://medium.com/codechai/effective-bloc-pattern-45c36d76d5fe)
 * [Architect flutter project using BLoC pattern](https://medium.com/codechai/architect-your-flutter-project-using-bloc-pattern-part-2-d8dd1eca9ba5)
