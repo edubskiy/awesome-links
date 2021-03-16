@@ -61,6 +61,7 @@ React tools
 Handpicked articles:
 
 Frontend
+* [React ultimate resume](https://github.com/welovedevs/react-ultimate-resume)
 * [RSLint A fast, customizable, and easy to use JavaScript and TypeScript linter](https://github.com/rslint/rslint)
 * [What is obervable interactive video](https://www.youtube.com/watch?v=XbOuCBuQepI)
 * [Создаем монорепозиторий с помощью lerna & yarn workspaces](https://habr.com/ru/post/448766/)
