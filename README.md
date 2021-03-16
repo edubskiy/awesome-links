@@ -60,6 +60,7 @@ React tools
 Handpicked articles:
 
 Frontend
+* [What is obervable interactive video](https://www.youtube.com/watch?v=XbOuCBuQepI)
 * [Создаем монорепозиторий с помощью lerna & yarn workspaces](https://habr.com/ru/post/448766/)
 * [React Performance Optimization Tips](https://dev.to/harshdand/react-performance-optimization-tips-4238)
 * [Top Grid performance comparison](https://medium.com/bryntum/five-fast-javascript-data-grids-a-performance-review-22b456ba423b) + [github](https://github.com/bryntum/grid-performance)
