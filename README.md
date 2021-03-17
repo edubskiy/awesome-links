@@ -121,6 +121,7 @@ Gitlab:
 * [CI Multiple branches](https://stackoverflow.com/questions/49569253/gitlab-ci-multiple-branches)
 
 Forumhouse:
+* [Как угробить газобетон. Советы бывалого](https://www.youtube.com/watch?v=Oyut1OdXDEI)
 * [КАК ПОСТРОИТЬ ДОМ ИЗ ГАЗОБЕТОНА? ГЛЕБ ГРИН / ГЛЕБ ГРИНФЕЛЬД](https://www.youtube.com/watch?v=Xhnfw_I2L6M)
 * [Фахверковый дом в стиле "модерн"](https://www.forumhouse.ru/threads/269761/)
 * [ЛУЧШАЯ В МИРЕ КРЫША \ ИЗ ЧЕГО И КАК? СТРОЙХЛАМ](https://www.youtube.com/watch?v=bsQehq-0Mns)
