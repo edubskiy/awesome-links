@@ -65,6 +65,7 @@ React tools
 Handpicked articles:
 
 Frontend
+* [How to Build a Text Editor Like Notion](https://medium.com/swlh/how-to-build-a-text-editor-like-notion-c510aedfdfcc)
 * [React ultimate resume](https://github.com/welovedevs/react-ultimate-resume)
 * [RSLint A fast, customizable, and easy to use JavaScript and TypeScript linter](https://github.com/rslint/rslint)
 * [What is obervable interactive video](https://www.youtube.com/watch?v=XbOuCBuQepI)
