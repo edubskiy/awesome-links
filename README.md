@@ -53,6 +53,7 @@ My Dev Tools
  * [JetBrains Mono](https://www.jetbrains.com/ru-ru/lp/mono/)
  * [Operator Mono](https://github.com/kiliman/operator-mono-lig)
  * [Visual Studio Code](https://code.visualstudio.com/)
+ * [Github octotree](https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc?hl=ru)
  * [Github super linter](https://github.com/github/super-linter/), [how it works](https://github.blog/2020-06-18-introducing-github-super-linter-one-linter-to-rule-them-all/)
 
 React tools
