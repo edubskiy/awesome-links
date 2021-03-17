@@ -167,6 +167,7 @@ Database
 * [Database of Databases](https://dbdb.io/)
 
 PostgreSQL
+* [Backup database command](https://gist.github.com/edubskiy/005267d59cf07c56523e071b61caa2f7)
 * [GREAT ARTICLE ON POSGRES MIGRATION Our Journey to PostgreSQL 12 curated dating app](https://tech.coffeemeetsbagel.com/our-journey-to-postgresql-12-3d6ee15d305a)
 * [POSTGRES SCALING ADVICE FOR 2021](https://www.cybertec-postgresql.com/en/postgres-scaling-advice-for-2021/)
 * [Setup postgres 13 replication](https://www.highgo.ca/2021/02/03/how-to-setup-postgres-13-wal-streaming-replication-on-ubuntu-18-04/)
