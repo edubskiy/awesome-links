@@ -190,7 +190,9 @@ Interview
 
 Job
 * [Швеция и новая Зеландия, spotify](https://vc.ru/life/197965?_gl=1*fpi9i3*_ga*SzVFTjh6UWhZWmlkTUVIOGpBbUl3Y29EZk9PNWg3cU1HQlBiLWxnYzh0MC1KUk16NXdBZDA0aVktTGN3dzh6RQ..)
+
 Saint-Petersburg
+* [Как записать ребенка в первый класс в Петербурге в 2021 году? Пошаговая инструкция и советы от «Фонтанки»](https://www.fontanka.ru/2021/03/24/69825959/)
 * [Apple recommended from Arrival service iPhone & Macbook Некрасова](https://secrets-service.ru/)
 
 BioMed Dev
