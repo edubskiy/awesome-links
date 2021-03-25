@@ -66,6 +66,9 @@ React tools
 
 Handpicked articles:
 
+Devops
+ * [Notion automatic backups with gitlab](https://medium.com/@arturburtsev/automated-notion-backups-f6af4edc298d)
+
 Frontend
 * [How to Build a Text Editor Like Notion](https://medium.com/swlh/how-to-build-a-text-editor-like-notion-c510aedfdfcc)
 * [React ultimate resume](https://github.com/welovedevs/react-ultimate-resume)
