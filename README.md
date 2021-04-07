@@ -70,6 +70,7 @@ Devops
  * [Notion automatic backups with gitlab](https://medium.com/@arturburtsev/automated-notion-backups-f6af4edc298d)
 
 Frontend
+* [Presentations with react](https://github.com/FormidableLabs/spectacle)
 * [How to Build a Text Editor Like Notion](https://medium.com/swlh/how-to-build-a-text-editor-like-notion-c510aedfdfcc)
 * [React ultimate resume](https://github.com/welovedevs/react-ultimate-resume)
 * [RSLint A fast, customizable, and easy to use JavaScript and TypeScript linter](https://github.com/rslint/rslint)
