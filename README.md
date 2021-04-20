@@ -21,6 +21,7 @@ Frameworks and libraries
 * [Testing library](https://testing-library.com/)
 * [AVA is a test runner for Node.js with a concise API](https://github.com/avajs/ava/)
 * [Javascript algorithms](https://github.com/edubskiy/javascript-algorithms) + [more algorithms](https://github.com/tayllan/awesome-algorithms)
+* [NPM Packages Manager - Deploy fast or Die](https://jfrog.com/)
 ------------
 * [Carbon design react components](https://github.com/carbon-design-system/carbon/tree/master/packages/react)
 * [RecoilJs](https://recoiljs.org/)
