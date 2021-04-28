@@ -1,5 +1,8 @@
 # Awesome Links (all these links are handpicked and manually checked)
 
+Dev setup
+ * [Beautiful terminal setup](https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961)
+
 Web tools
 
 Frameworks and libraries
