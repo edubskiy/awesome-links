@@ -18,7 +18,7 @@ Frameworks and libraries
 * [React Admin](https://marmelab.com/react-admin/)
 * [React Table](https://react-table.tanstack.com/)
 * [PgAdmin](https://www.pgadmin.org/)
-* [Styled Components](https://styled-components.com/)
+* [Styled Components](https://styled-components.com/) + [Emotion](https://emotion.sh)?
 * [Professional Grid(Table) & Gantt +more](https://dhtmlx.com/)
 * [React Final Form](https://final-form.org/react)
 * [NextJs](https://nextjs.org/)
