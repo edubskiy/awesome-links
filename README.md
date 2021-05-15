@@ -87,6 +87,7 @@ Frontend
 * [Recoil vs Redux | The Ultimate React State Management Face-Off](https://medium.com/@chandan.reddy/react-recoil-vs-redux-the-ultimate-react-state-management-face-off-188a729a70ee#:~:text=In%20redux%2C%20actions%20are%20fired,shared%20atom%20state%20using%20selectors.)
 * [The styled-components happy path](https://www.joshwcomeau.com/css/styled-components/)
 
+
 Typescript
  * [10 bad TypeScript habits to break this year](https://startup-cto.net/10-bad-typescript-habits-to-break-this-year/?utm_source=typescript-weekly.com&utm_campaign=typescript_weekly_162&utm_medium=email)
 
@@ -105,6 +106,7 @@ Flutter
 * [Flutter Modular 3.0](https://medium.com/flutterando/announcing-flutter-modular-3-0-beta-with-null-safety-b0a0e13f67b6)
 * [Transfer-Learning-App-TensorfowLite-and-Flutter](https://medium.com/google-cloud/on-device-machine-learning-train-and-run-tensorflow-lite-models-in-your-flutter-apps-15ea796e5ad4)
 * [Effective BloC pattern](https://medium.com/codechai/effective-bloc-pattern-45c36d76d5fe)
+* [Lerna step by step using react](https://medium.com/@bijayshrestha/easy-step-by-step-guide-to-monorepo-architecture-using-lerna-yarn-workspace-and-react-workspace-5255d3e9447)
 
 Node
 * [Achieving 11M IOPS & 66 GB/s IO on a Single ThreadRipper Workstation](https://tanelpoder.com/posts/11m-iops-with-10-ssds-on-amd-threadripper-pro-workstation/)
