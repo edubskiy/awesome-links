@@ -71,6 +71,9 @@ React tools
 
 Handpicked articles:
 
+General Development
+ * [Why Google Stores Billions of Lines of Code in a Single Repository](https://www.youtube.com/watch?v=W71BTkUbdqE) #monorepo
+
 Devops
  * [Notion automatic backups with gitlab](https://medium.com/@arturburtsev/automated-notion-backups-f6af4edc298d)
 
