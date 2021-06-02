@@ -182,6 +182,7 @@ Database
 * [Database of Databases](https://dbdb.io/)
 
 PostgreSQL
+* [Triple stores](https://rdfextras.readthedocs.io/en/latest/store/mysqlpg.html)
 * [ltree select parent of path](https://stackoverflow.com/questions/27146802/postgresql-ltree-find-all-ancestors-of-a-given-label-not-path)
 * [100 Posgres Tips and Tricks](https://mydbanotebook.org/psql_tips_all.html)
 * [Backup database command](https://gist.github.com/edubskiy/005267d59cf07c56523e071b61caa2f7)
