@@ -70,7 +70,7 @@ React tools
  * [React App Rewired](https://www.npmjs.com/package/react-app-rewired)
  * [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=ru)
  * [Redux Dev Tools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=ru)
-
+ * [React MIT Components](https://mantine.dev/)
 ----------------------------
 
 Handpicked articles:
