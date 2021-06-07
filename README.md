@@ -35,6 +35,9 @@ Frameworks and libraries
 * [Stenciljs](https://stenciljs.com/)
 
 
+NPM
+ * [Bottleneck - tas scheduler and rate limiter](https://www.npmjs.com/package/bottleneck)
+
 Mobile tools
  * [Flutter](https://flutter.dev/)
  * [Flutter awesome](https://github.com/Solido/awesome-flutter)
