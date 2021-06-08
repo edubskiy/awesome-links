@@ -126,6 +126,7 @@ Node
 * [App monitoring with sentry](https://sentry.io/for/node/)
 
 NestJs
+ * [NestJS CSV parser](https://www.npmjs.com/package/nest-csv-parser)
  * [Serverless Nest.js micro-services & integrations without HTTP](https://medium.com/capmo-stories/serverless-nest-js-micro-services-integrations-without-http-42f453236b39)
  * [Nestjs with Neo4j example](https://medium.com/neo4j/building-a-modern-web-application-with-neo4j-and-nestjs-b51ffd8268fa)
  * [Awesome nestjs](https://awesomeopensource.com/project/juliandavidmr/awesome-nestjs)
