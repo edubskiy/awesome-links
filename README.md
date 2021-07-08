@@ -98,6 +98,7 @@ Frontend
 
 
 Typescript
+ * [TypeScript Enums I Want to Actually Use](https://robinpokorny.com/blog/typescript-enums-i-want-to-actually-use/?utm_source=typescript-weekly.com&utm_campaign=typescript_weekly_170&utm_medium=email)
  * [10 bad TypeScript habits to break this year](https://startup-cto.net/10-bad-typescript-habits-to-break-this-year/?utm_source=typescript-weekly.com&utm_campaign=typescript_weekly_162&utm_medium=email)
 
 Flutter
