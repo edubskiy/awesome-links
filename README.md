@@ -189,6 +189,7 @@ Database
 * [Database of Databases](https://dbdb.io/)
 
 PostgreSQL
+* [PG SYNC](https://github.com/toluaina/pgsync)
 * [Triple stores](https://rdfextras.readthedocs.io/en/latest/store/mysqlpg.html)
 * [ltree select parent of path](https://stackoverflow.com/questions/27146802/postgresql-ltree-find-all-ancestors-of-a-given-label-not-path)
 * [100 Posgres Tips and Tricks](https://mydbanotebook.org/psql_tips_all.html)
