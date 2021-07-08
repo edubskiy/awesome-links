@@ -185,6 +185,7 @@ Rust
 * [Rust Design Patterns](https://rust-unofficial.github.io/patterns/intro.html)
 
 Database
+* [ER diagram for your database](https://github.com/k1LoW/tbls#er-diagram)
 * [Compare RDF Store vs Lavelled path tree (like ltree or Neo4J)](https://neo4j.com/blog/rdf-triple-store-vs-labeled-property-graph-difference/)
 * [Database architecture service](https://dbdiagram.io)
 * [SQL Style Guide](https://www.sqlstyle.guide/)
