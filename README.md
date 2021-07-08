@@ -101,7 +101,8 @@ Typescript
  * [TypeScript Enums I Want to Actually Use](https://robinpokorny.com/blog/typescript-enums-i-want-to-actually-use/?utm_source=typescript-weekly.com&utm_campaign=typescript_weekly_170&utm_medium=email)
  * [10 bad TypeScript habits to break this year](https://startup-cto.net/10-bad-typescript-habits-to-break-this-year/?utm_source=typescript-weekly.com&utm_campaign=typescript_weekly_162&utm_medium=email)
 
-Flutter
+Flutter and Dart
+* [DART - DIFFERENCES BETWEEN EXTENDS, IMPLEMENTS AND MIXIN](https://www.topcoder.com/thrive/articles/dart-differences-between-extends-implements-and-mixin)
 * [Flutter - How To Scroll Animate An Image Into an App Bar (CustomScrollView Widget)](https://fluttertap.us3.list-manage.com/track/click?u=e32b1452b25dd2466484f9798&id=3544ee5d47&e=8157fcea17)
 * [Flutter sdk version manager](https://github.com/leoafarias/fvm)
 * [How PostgreSQL replication works](https://medium.com/moveax/how-postgresql-replication-works-6288b3e6000e)
