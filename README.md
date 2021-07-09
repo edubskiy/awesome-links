@@ -53,6 +53,7 @@ Mobile tools
  * [Flutter modal bottom sheet](https://pub.dev/packages/modal_bottom_sheet)
 
 Rust
+ * [Rust video course from Microsoft](https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x#&utm_source=hackernewsletter&utm_medium=email&utm_term=watching) 
  * [MoonZoon Rust framework](https://github.com/MoonZoon/MoonZoon)
  * [Building a microservice with Rust](https://medium.com/tenable-techblog/building-a-microservice-with-rust-23a4de6e5e14)
 
