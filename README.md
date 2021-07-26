@@ -181,6 +181,7 @@ Development
 * [I wasted $40k on a fantastic startup idea](https://blog.tjcx.me/p/40k-fantastic-startup-idea)
 * [Make your code reviewer fall in love with you](https://mtlynch.io/code-review-love/)
 * [Честное резюме программиста](https://habr.com/ru/post/450266/)
+* [«Почему Kotlin хуже, чем Java?»](https://habr.com/ru/company/funcorp/blog/558412/comments/)
 
 Algorithms
 * [Tree from flat array JS](https://stackoverflow.com/questions/18017869/build-tree-array-from-flat-array-in-javascript)
